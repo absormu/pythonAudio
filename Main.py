@@ -3,6 +3,7 @@
 # Python 3.6.9
 # python3 Main.py
 # pygame 1.9.6
+# absormu
 # absoralvord07@gmail.com
 
 
